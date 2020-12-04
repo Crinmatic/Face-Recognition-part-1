@@ -9,3 +9,6 @@ Building a real time face recognition system using Facenet and MTCNN with a high
 4. Install your MTCNN packages and other libraries
 5. It is well documented for debugging purposes
 5. Enjoy!
+
+# Improves needed
+Please create a pull request to contribute 
